@@ -7,5 +7,7 @@ Rintaro Hasegawa
 Takumi Ihara  
 
 ## About Us
-Established today  
-Big Adventure
+Established today
+
+## Schedule
+Study sessions will be held around every two weeks.
