@@ -8,3 +8,4 @@ Takumi Ihara
 
 ## About Us
 Established today
+Big Adventure
