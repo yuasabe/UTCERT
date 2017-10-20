@@ -7,5 +7,5 @@ Rintaro Hasegawa
 Takumi Ihara  
 
 ## About Us
-Established today 
+Established today  
 Big Adventure
